@@ -1,0 +1,9 @@
+cerebrium project set p-1a54997c
+cerebrium deploy --disable-build-logs --disable-confirmation --disable-syntax-check --disable-animation --detach --name aaa1
+cerebrium deploy --disable-build-logs --disable-confirmation --disable-syntax-check --disable-animation --detach --name aaa2
+cerebrium project set p-8450f526
+cerebrium deploy --disable-build-logs --disable-confirmation --disable-syntax-check --disable-animation --detach --name aaa1
+cerebrium deploy --disable-build-logs --disable-confirmation --disable-syntax-check --disable-animation --detach --name aaa2
+cerebrium project set p-ffdc6e1a
+cerebrium deploy --disable-build-logs --disable-confirmation --disable-syntax-check --disable-animation --detach --name aaa1
+cerebrium deploy --disable-build-logs --disable-confirmation --disable-syntax-check --disable-animation --detach --name aaa2
